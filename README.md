@@ -22,7 +22,7 @@ A modern product management system built with Vue.js and Supabase.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Supreme-DB.git
+git clone https://github.com/Supreme-Auctions/Supreme-DB.git
 cd Supreme-DB
 ```
 
